@@ -1,2 +1,2 @@
-#fererro roshe sucks
-print("hi")
+print("Kukushenok:Forbidden")
+print("The game")
